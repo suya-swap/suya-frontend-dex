@@ -3498,6 +3498,17 @@
     ejs "^2.6.1"
     magic-string "^0.25.0"
 
+"@suyaswap-libs/uikit@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@suyaswap-libs/uikit/-/uikit-0.1.5.tgz#44c12d463ef4b618a689ce878bbfba60044a296e"
+  integrity sha512-GAXI5x2CzP83o6BUXdWrdI2cXKC6XYT9WZhTYSMMIJWIF78c/5ftJnzpyV8o5Pd23iDbuaCyTNS0Lgm28ZeYIg==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 "@svgr/babel-plugin-add-jsx-attribute@^5.4.0":
   version "5.4.0"
   resolved "https://registry.yarnpkg.com/@svgr/babel-plugin-add-jsx-attribute/-/babel-plugin-add-jsx-attribute-5.4.0.tgz#81ef61947bb268eb9d50523446f9c638fb355906"
@@ -4797,17 +4808,6 @@
     tiny-invariant "^1.1.0"
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
-
-"@wakandaswap-libs/uikit@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@wakandaswap-libs/uikit/-/uikit-0.1.4.tgz#8881e114f9897a6369a5b53bac1a23b2e4242d02"
-  integrity sha512-CF9Zs0qbCZyE0HHXB2IWegI2NQjlW0VTN3woFqtKSGSQftqs0wgWno6rtvz06AGjgq7HafNxrhxDM1F5sbhZiA==
-  dependencies:
-    "@types/lodash" "^4.14.162"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
 
 "@wakandaswap-libs/wakanda-swap-core@^0.1.0":
   version "0.1.0"

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Button, HelpIcon, Link } from '@wakandaswap-libs/uikit'
+import { Text, Button, HelpIcon, Link } from '@suyaswap-libs/uikit'
 
 const Wrapper = styled.div`
   position: fixed;
@@ -23,12 +23,12 @@ const VersionBar = () => {
   return (
     <Wrapper>
       <Text bold mr="16px">
-        You are using WakandaSwap AMM exchange.
+        You are using SutaSwap AMM exchange.
       </Text>
       <Button
         variant="subtle"
         as={Link}
-        href="https://docs.wakandaswap.com/amm-launch"
+        href="https://docs.suyaswap.io/amm-launch"
         endIcon={<HelpIcon color="white" />}
         size="sm"
         ml="16px"

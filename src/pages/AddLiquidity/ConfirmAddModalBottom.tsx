@@ -1,6 +1,6 @@
 import { Currency, CurrencyAmount, Fraction, Percent } from '@wakandaswap-libs/sdk'
 import React from 'react'
-import { Button } from '@wakandaswap-libs/uikit'
+import { Button } from '@suyaswap-libs/uikit'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'
 import { Field } from '../../state/mint/actions'
