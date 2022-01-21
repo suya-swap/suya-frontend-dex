@@ -3498,10 +3498,10 @@
     ejs "^2.6.1"
     magic-string "^0.25.0"
 
-"@suyaswap-libs/uikit@^0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@suyaswap-libs/uikit/-/uikit-0.1.5.tgz#44c12d463ef4b618a689ce878bbfba60044a296e"
-  integrity sha512-GAXI5x2CzP83o6BUXdWrdI2cXKC6XYT9WZhTYSMMIJWIF78c/5ftJnzpyV8o5Pd23iDbuaCyTNS0Lgm28ZeYIg==
+"@suyaswap-libs/uikit@^0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@suyaswap-libs/uikit/-/uikit-0.1.6.tgz#d4a5c4e543fce6069d3f6ff168099ca999749c8c"
+  integrity sha512-UDCMUAQckUe1lmi/vP7KlKirfQoxEkKNK6erO696HyiJRvlMbOy9WaiYinCK7zgCR4FUy5TECHF6ChjtIlLVow==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
